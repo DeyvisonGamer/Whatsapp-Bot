@@ -1,0 +1,2382 @@
+{
+  "conversas": {
+    "210737318379642@lid": {
+      "nome": "William Deyvison",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1789849797405,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "49400-000 frete",
+          "timestamp": 1788028185140
+        },
+        {
+          "de": "bot",
+          "texto": "Ainda não localizei sua cidade/CEP no nosso cadastro de frete 🙏 Me manda o nome da cidade ou o CEP completo que eu confirmo certinho, ou aguarde que já te respondemos por aqui!",
+          "timestamp": 1788028187045
+        },
+        {
+          "de": "cliente",
+          "texto": "frete de lagarto",
+          "timestamp": 1788028609158
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1788028610467
+        },
+        {
+          "de": "cliente",
+          "texto": "frete de paripiranga",
+          "timestamp": 1788028620546
+        },
+        {
+          "de": "bot",
+          "texto": "Para Paripiranga o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1788028620556
+        },
+        {
+          "de": "cliente",
+          "texto": "frete de sao cristovao",
+          "timestamp": 1788028631030
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1788028631037
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá",
+          "timestamp": 1788087484918
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎",
+          "timestamp": 1788087485058
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá",
+          "timestamp": 1788087516644
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1788087516829
+        },
+        {
+          "de": "cliente",
+          "texto": "Quero atendimento humano",
+          "timestamp": 1788087529021
+        },
+        {
+          "de": "bot",
+          "texto": "Combinado! 🙋 Já avisei nossa equipe e alguém vai te atender por aqui em instantes. Só um instantinho, por favor!",
+          "timestamp": 1788087529031
+        },
+        {
+          "de": "cliente",
+          "texto": "Quero atendimento humaano",
+          "timestamp": 1788087755242
+        },
+        {
+          "de": "cliente",
+          "texto": "Quero atendimento humaano",
+          "timestamp": 1788087757843
+        },
+        {
+          "de": "cliente",
+          "texto": "Quero atendimento humano",
+          "timestamp": 1788088249546
+        },
+        {
+          "de": "bot",
+          "texto": "Combinado! 🙋 Já avisei nossa equipe e alguém vai te atender por aqui em instantes. Só um instantinho, por favor!",
+          "timestamp": 1788088309848
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá quero atendimento humano",
+          "timestamp": 1788088983353
+        },
+        {
+          "de": "bot",
+          "texto": "Combinado! 🙋 Já avisei nossa equipe e alguém vai te atender por aqui em instantes. Só um instantinho, por favor!",
+          "timestamp": 1788089044381
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá quero atendimento humano",
+          "timestamp": 1788089553559
+        },
+        {
+          "de": "bot",
+          "texto": "Combinado! 🙋 Já avisei nossa equipe e alguém vai te atender por aqui em instantes. Só um instantinho, por favor!",
+          "timestamp": 1788089553929
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Gostaria de confirmar meu pedido *Luz & Brilho*:\n\n• 1x Produto de teste — R$ 1000000000,00\n\nSubtotal: R$ 1000000000,00\nEntrega padrão: Grátis\n*Total: R$ 1000000000,00*\n\nForma de pagamento: Pix\nNome: William Deyvison de Santana\nEndereço: Estrada Velha Para O Açude, Simão Dias 49480-000 — CEP: 49480-000 (Simão Dias)",
+          "timestamp": 1788089907990
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Gostaria de confirmar meu pedido *Luz & Brilho*:\n\n• 1x Produto de teste — R$ 1000000000,00\n\nSubtotal: R$ 1000000000,00\nEntrega padrão: Grátis\n*Total: R$ 1000000000,00*\n\nForma de pagamento: Pix\nNome: William Deyvison de Santana\nEndereço: Estrada Velha Para O Açude, Simão Dias 49480-000 — CEP: 49480-000 (Simão Dias) (test)",
+          "timestamp": 1788093609540
+        },
+        {
+          "de": "bot",
+          "texto": "Recebemos seu pedido! 🎉\n\nPara finalizar, faça o pagamento via Pix:\n🔑 Chave Pix: COLE_AQUI_A_CHAVE_PIX\n👤 Favorecido: COLE_AQUI_O_NOME_DO_FAVORECIDO\n\nDepois de pagar, é só mandar o comprovante aqui mesmo. Seu pedido foi enviado para nossa equipe, por favor aguarde a confirmação. Para acompanhar o status do seu pedido, acesse sua conta no nosso site https://luzebrilhocosmeticos.netlify.app 🤎",
+          "timestamp": 1788093609869
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá",
+          "timestamp": 1788102446001
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1788102446139
+        },
+        {
+          "de": "cliente",
+          "texto": "Quero atendimento humano",
+          "timestamp": 1788102452647
+        },
+        {
+          "de": "bot",
+          "texto": "Combinado! 🙋 Já avisei nossa equipe e alguém vai te atender por aqui em instantes. Só um instantinho, por favor!",
+          "timestamp": 1788102455773
+        },
+        {
+          "de": "cliente",
+          "texto": "Sim vou fazer isso e que eu preciso de acesso ao seu e-mail",
+          "timestamp": 1788103552221
+        },
+        {
+          "de": "cliente",
+          "texto": "Certo to vendo pra atualizar o aplicativo",
+          "timestamp": 1788105787608
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá quero atendimento humano (test)",
+          "timestamp": 1788112867669
+        },
+        {
+          "de": "bot",
+          "texto": "Combinado! 🙋 Já avisei nossa equipe e alguém vai te atender por aqui em instantes. Só um instantinho, por favor!",
+          "timestamp": 1788112870284
+        },
+        {
+          "de": "cliente",
+          "texto": "Veja se chegou algo no seu e-mail edilene",
+          "timestamp": 1788112900456
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Gostaria de confirmar meu pedido *Luz & Brilho*:\n\n• 1x Imparável Energético — R$ 19,00\n\nSubtotal: R$ 19,00\nEntrega padrão: Grátis\n*Total: R$ 19,00*\nTest\n\nForma de pagamento: Pix\nNome: William Deyvison de Santana\nEndereço: Estrada Velha Para O Açude, Simão Dias 49480-000 — CEP: 49480-000 (Simão Dias)",
+          "timestamp": 1788128201603
+        },
+        {
+          "de": "bot",
+          "texto": "Recebemos seu pedido! 🎉\n\nPara finalizar, faça o pagamento via Pix:\n🔑 Chave Pix: COLE_AQUI_A_CHAVE_PIX\n👤 Favorecido: COLE_AQUI_O_NOME_DO_FAVORECIDO\n\nDepois de pagar, é só mandar o comprovante aqui mesmo. Seu pedido foi enviado para nossa equipe, por favor aguarde a confirmação. Para acompanhar o status do seu pedido, acesse sua conta no nosso site https://luzebrilhocosmeticos.netlify.app 🤎",
+          "timestamp": 1788128201902
+        },
+        {
+          "de": "atendente",
+          "texto": "test",
+          "atendente": "William",
+          "timestamp": 1788297209858
+        },
+        {
+          "de": "atendente",
+          "texto": "test",
+          "atendente": "William",
+          "timestamp": 1788898071978
+        },
+        {
+          "de": "cliente",
+          "texto": "22,90 o valor tambem??",
+          "timestamp": 1788900458201
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788900459622
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou mandar agr calma ai",
+          "timestamp": 1788903514889
+        },
+        {
+          "de": "cliente",
+          "texto": "esta todas ai e ja adicionei elas tambem no site o site ta tudo ok e pronto",
+          "timestamp": 1788903829655
+        },
+        {
+          "de": "cliente",
+          "texto": "nao]",
+          "timestamp": 1788904465807
+        },
+        {
+          "de": "bot",
+          "texto": "Sim, trazemos por encomenda! 📦 Me conta qual produto você está procurando que a gente verifica disponibilidade e prazo pra você.",
+          "timestamp": 1788904467570
+        },
+        {
+          "de": "cliente",
+          "texto": "certo",
+          "timestamp": 1788904538415
+        },
+        {
+          "de": "bot",
+          "texto": "Ótima pergunta ✨ Pra acertar o tom da base ou corretivo, me manda uma foto do seu rosto com luz natural (sem filtro) que a gente te ajuda a escolher, ou se preferir pode vir aqui na loja pra testar!",
+          "timestamp": 1788904538510
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789255568060
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789255568863
+        },
+        {
+          "de": "cliente",
+          "texto": "app",
+          "timestamp": 1789849797405
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789849799576
+        }
+      ]
+    },
+    "status@broadcast": {
+      "nome": "Edicleide Doria",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1790714283569,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "🙏🏻",
+          "timestamp": 1790680306165
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790680306204
+        },
+        {
+          "de": "cliente",
+          "texto": "💥🐎",
+          "timestamp": 1790680436893
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790680438222
+        },
+        {
+          "de": "cliente",
+          "texto": "Disponível esse final de semana",
+          "timestamp": 1790686736682
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790686738078
+        },
+        {
+          "de": "cliente",
+          "texto": "Lindos tapetes disponível 😍😍",
+          "timestamp": 1790689261780
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790689263101
+        },
+        {
+          "de": "cliente",
+          "texto": "Lindos tapetes disponível",
+          "timestamp": 1790690995031
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790690996409
+        },
+        {
+          "de": "cliente",
+          "texto": "Fronha para travesseiro agarradinho estampada disponível ❤️🥰",
+          "timestamp": 1790692618700
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790692620665
+        },
+        {
+          "de": "cliente",
+          "texto": "Para agarradinho Lisa",
+          "timestamp": 1790692691714
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790692691755
+        },
+        {
+          "de": "cliente",
+          "texto": "A fronha para esse tipo de travesseiro agarradinho😍🥰👈",
+          "timestamp": 1790692780217
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790692780257
+        },
+        {
+          "de": "cliente",
+          "texto": "Toalha de mesa para quatro lugares",
+          "timestamp": 1790692930596
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790692930635
+        },
+        {
+          "de": "cliente",
+          "texto": "Promoção 15.00 cada para você que viajar com as suas crianças😍🥰 duas unidades disponível",
+          "timestamp": 1790693410398
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790693411974
+        },
+        {
+          "de": "cliente",
+          "texto": "Tenho também para adultos por apenas  15.00 na promoção a vista",
+          "timestamp": 1790693496744
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790693496783
+        },
+        {
+          "de": "cliente",
+          "texto": "Linda opção para presentear recém-nascido 😍🥰",
+          "timestamp": 1790693807849
+        },
+        {
+          "de": "bot",
+          "texto": "Depende do horário do pedido, mas fazemos o possível para entregar embalado ainda hoje 🎁. Me diga o produto e seu bairro que já te confirmo!",
+          "timestamp": 1790693807886
+        },
+        {
+          "de": "cliente",
+          "texto": "Encantado por cada um uma ótima opção para dar presente",
+          "timestamp": 1790693883814
+        },
+        {
+          "de": "bot",
+          "texto": "Depende do horário do pedido, mas fazemos o possível para entregar embalado ainda hoje 🎁. Me diga o produto e seu bairro que já te confirmo!",
+          "timestamp": 1790693883855
+        },
+        {
+          "de": "cliente",
+          "texto": "Feliz aniversário cunhada, que Deus te abençoe grandemente, amo você ❤️",
+          "timestamp": 1790695101658
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790695103279
+        },
+        {
+          "de": "cliente",
+          "texto": "Setembro está quase terminando que Outubro venha cheios de coisas boas que Deus abençoe todos nois com muita sabedoria",
+          "timestamp": 1790695709205
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790695710823
+        },
+        {
+          "de": "cliente",
+          "texto": "Disponivel",
+          "timestamp": 1790698296988
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790698298296
+        },
+        {
+          "de": "cliente",
+          "texto": "Parabéns princesa de madrinha Que papai do céu lhe abençoe infinitamente com muita saúde que você continue sendo essa menina doce meiga muito educada nós te amamos muito Esther 😍💓",
+          "timestamp": 1790699152088
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790699158420
+        },
+        {
+          "de": "cliente",
+          "texto": "Vende-Casa/ Povoado Triunfo/ Simão Dias- SE ",
+          "timestamp": 1790700139875
+        },
+        {
+          "de": "bot",
+          "texto": "Para Simão Dias o frete é GRÁTIS! 🛵✨",
+          "timestamp": 1790700146379
+        },
+        {
+          "de": "cliente",
+          "texto": "Calor ta grande, hora de refrescar os🐷🙌🏻",
+          "timestamp": 1790702478601
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790702480047
+        },
+        {
+          "de": "cliente",
+          "texto": "Esse gosta🐷🤣",
+          "timestamp": 1790702591589
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790702591630
+        },
+        {
+          "de": "cliente",
+          "texto": "As colchas de solteiro e lençóis também😍🥰👉",
+          "timestamp": 1790702770139
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790702770182
+        },
+        {
+          "de": "cliente",
+          "texto": "Fui abrir meu correio pra pega meu talão de energia oq eu dou de cara primeiro 🤣🤣🤣\nDinheiro pra pagar meu talão ngm da😂",
+          "timestamp": 1790712925920
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1790712925961
+        },
+        {
+          "de": "cliente",
+          "texto": "Presente chegando já, Obrigada Dona Marluce 😊❤️",
+          "timestamp": 1790712995851
+        },
+        {
+          "de": "bot",
+          "texto": "Depende do horário do pedido, mas fazemos o possível para entregar embalado ainda hoje 🎁. Me diga o produto e seu bairro que já te confirmo!",
+          "timestamp": 1790712995894
+        },
+        {
+          "de": "cliente",
+          "texto": "😉",
+          "timestamp": 1790713993181
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790713994749
+        },
+        {
+          "de": "cliente",
+          "texto": "🙏🏾",
+          "timestamp": 1790714283569
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790714283613
+        }
+      ]
+    },
+    "142597595123899@lid": {
+      "nome": "Edilene",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1790373181938,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Moldes Sacolas Personalizadas + Bonus Exclusivos \nhttps://drive.google.com/drive/folders/1D85BRkU4djfEvXEkB_LoP_FvnSecGSig?hl=pt-br\n\nPacks Editavel https://www.canva.com/design/DAGzZHXG2Uk/1IWtdARENrI5pacdIs5PGQ/view\n\nTEMAS MAIS PROCURADOS https://www.canva.com/design/DAGyldgeceo/Cn5FXNXCk0VsTWYlea2KHQ/view?u\n\nKit Festa https://drive.google.com/drive/folders/1y4XsKuM4ufrk94iXaLUylQMokqhBpI8S",
+          "timestamp": 1789172759757
+        },
+        {
+          "de": "cliente",
+          "texto": "Muito obrigada 😍🙏🥰\nSeus Brindes 👇🏻👇🏻🎁🎁🎁\n\nPACK EDITAVEL NO CANVA \nhttps://canva.link/gv0efmu70f67yd4\n\nDRIVE MOLDES 🔗\nhttps://drive.google.com/drive/folders/1ISHK9LCovOpRXpspUwYgB7-GMsHjdcVE\n\n🔗DIVERSOS MOLDES\nhttps://drive.google.com/drive/folders/1-NCHq1Jb8h5orNRaShiW16zm5IhINYSC?usp=sharing ",
+          "timestamp": 1789172760085
+        },
+        {
+          "de": "cliente",
+          "texto": "🖊️ 500 MODELOS EDITÁVEIS NO CANVA\nhttps://canva.link/oxqhqgwjegzhm4g\n\n⭐ KIT MODELOS EDITÁVEIS\nhttps://www.canva.com/design/DAG_6qhUTFk/AdOn-zbrNCbNuaSK3yjv9Q/edit\n\n💙TOPOS DE BOLO\nhttps://drive.google.com/drive/folders/1y6uD19Zs3L8T2mtPEc0ptgTaIJiBq6Je?usp=sharing\n\n💖CONVITES EXCLUSIVOS EDITÁVEIS\nhttps://drive.google.com/drive/folders/16QYY95VyilKGSD5B5mSLPJMyMS1G1AUE\n\n💡DESENHOS ANIMADOS\nhttps://drive.google.com/drive/folders/1-LZZNku8jajPvAs3siVALeAZfjE4fCCN?usp=sharing\n\n🎁MOLDES EXCLUSIVOS\nhttps://drive.google.com/drive/folders/1TKF5Ia2RnYYJ51dV91p4H69_Tiu7bYnh?usp=drive_link",
+          "timestamp": 1789172760386
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789172761198
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789172761391
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789172761798
+        },
+        {
+          "de": "cliente",
+          "texto": "00020101021226820014BR.GOV.BCB.PIX2560api.itau/pix/qr/v2/cobv/5e0a5732-4549-409c-80ee-f1db51923aef5204000053039865802BR5925NATURA &CO PAY SERVICOS F6009SAO PAULO62070503***630405C0",
+          "timestamp": 1789262060822
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1789262073564
+        },
+        {
+          "de": "cliente",
+          "texto": "Nescau de João 2 latas \n2 latas de óleo \n1k. De sal \n\nSpray de veneno \n3 desinfetante \n\nPagar os sabãos a Marly",
+          "timestamp": 1789517231479
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1789517233013
+        },
+        {
+          "de": "cliente",
+          "texto": "Adicionais \n\n2 massa pronta para bolo \n1 farinha de trigo com fermento",
+          "timestamp": 1789517378016
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789517378152
+        },
+        {
+          "de": "cliente",
+          "texto": "Oi! Consegui um desconto exclusivo nas maquininhas do Ton, que pode chegar a 72% na adesão usando meu link. As taxas começam em 0,57%, não tem aluguel e a garantia é vitalícia. As condições estão realmente valendo a pena, por isso lembrei de você e do seu negócio! 👉 https://ton.com.br/catalogo/?referrer=548C1852-BD12-46D2-AA2E-26AA4D32970E&userAnticipation=0&utm_medium=invite_share&utm_source=revendedor",
+          "timestamp": 1789519818239
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1789519820002
+        },
+        {
+          "de": "cliente",
+          "texto": "https://www.instagram.com/p/DdMvKkHpQNK/?stkn=cnJrOGR1Mzk2bXY3",
+          "timestamp": 1789580962954
+        },
+        {
+          "de": "cliente",
+          "texto": "https://app-sorteos.com/pt/apps/sorteio-instagram",
+          "timestamp": 1789580963244
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789580966581
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789580966698
+        },
+        {
+          "de": "cliente",
+          "texto": "https://portal2.softeasy.com.br:444/download/files/0020442871011899037.pdf?t=1789657263652",
+          "timestamp": 1789657273671
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789657275824
+        },
+        {
+          "de": "cliente",
+          "texto": "https://www.instagram.com/_quesiia/links/",
+          "timestamp": 1789693752725
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789693753008
+        },
+        {
+          "de": "cliente",
+          "texto": "35821982",
+          "timestamp": 1789756931678
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789756933390
+        },
+        {
+          "de": "cliente",
+          "texto": "35621982",
+          "timestamp": 1789756952828
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789756953112
+        },
+        {
+          "de": "cliente",
+          "texto": "Novembro 👆\nPagar outubro 16",
+          "timestamp": 1789949585756
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1789949587389
+        },
+        {
+          "de": "cliente",
+          "texto": "Dezembro 👆🏻\nPagar novembro 16",
+          "timestamp": 1789949709046
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1789949709345
+        },
+        {
+          "de": "cliente",
+          "texto": "Janeiro/fevereiro 👆🏻\nPagar dezembro",
+          "timestamp": 1789949875538
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1789949875845
+        },
+        {
+          "de": "cliente",
+          "texto": "Janeiro/fevereiro 👆🏻\nPagar dezembro",
+          "timestamp": 1789949892833
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1789949893150
+        },
+        {
+          "de": "cliente",
+          "texto": "Março/abril 👆🏻\nPagar janeiro 15",
+          "timestamp": 1789950043751
+        },
+        {
+          "de": "bot",
+          "texto": "Para Lagarto o valor do frete é R$ 15,00 🛵",
+          "timestamp": 1789950044055
+        },
+        {
+          "de": "cliente",
+          "texto": "Comprar",
+          "timestamp": 1789950107496
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789950107803
+        },
+        {
+          "de": "cliente",
+          "texto": "https://chatgpt.com/c/6ab1a8dc-e9b8-83e9-91f4-63a9e5682bd4",
+          "timestamp": 1790028097149
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790028098649
+        },
+        {
+          "de": "cliente",
+          "texto": "https://lastlink.com/p/C6BDCF681/checkout-payment?utm_source=FB&utm_medium=CJ01%20%5BEscala%5D%7C120251487919950251&utm_campaign=CP06%20%5BOF1%5D%20Escala%20%5BS39%5D%20AD08%20(G1)%20%5BABO%20121%5D%2021%2F09%7C120251487919660251&utm_term=Instagram_Stories&utm_content=AD08%20G1%20S39%20-%20FMT%20HIA%20-%20Copy%20Chaw%20-%20EDT%20Chaw%7C120251487919580251&fbclid=PAdGRzdgUep_BwZG9mAmV4dG4DYWVtATAAYWRpZAGrOBdYl9p7c3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGneF48hGqe1uqoVV22I1ZdHUxSl9FRk72E8ePOdBQwFIEFUlK1KZCJ68clJfc_aem_CQSkAGIqUBdIxPy5pEsmIg&src=quizsimple&quiz_version=simple&wl_visit_id=0e351254-e139-4090-92aa-e9ed128b7a52&wl_test=teste-de-orderbump&wl_variant=teste02&sck=0e351254-e139-4090-92aa-e9ed128b7a52&vtid=0e351254-e139-4090-92aa-e9ed128b7a52",
+          "timestamp": 1790036138071
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1790036139909
+        },
+        {
+          "de": "cliente",
+          "texto": "Pilates de Parede cintura, coxa e mobilidade  1/21\nhttps://li.oitube.com/ExbNsB\nMais vídeos interessantes apenas em OiTube！ #oitube",
+          "timestamp": 1790036304570
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790036304886
+        },
+        {
+          "de": "cliente",
+          "texto": "Aqui está o link de pagamento no valor de R$ 1.500,00 para pagamento.\nhttps://payment-link-v3.ton.com.br/pl_AObJ2j0KPYylqpmtaSExoRgkvG4Nwd5a",
+          "timestamp": 1790188059962
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790188062016
+        },
+        {
+          "de": "cliente",
+          "texto": "Tamanho 6x5",
+          "timestamp": 1790370480036
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790370480397
+        },
+        {
+          "de": "cliente",
+          "texto": "https://cdn.fbsbx.com/v/t65.102178-21/823786111_1730257521607904_843560664607018091_n.jpg/folha_adesivo_AVON_7x5_A4.png?_nc_ht=cdn.fbsbx.com&_nc_ohc=HEn2mvKB7hEQ7kNvwF-ddpW&sdl=0&ccb=14-4&oh=00_AQKJPetvz_gP1C5s_f8cIpaAnvUnKXZw5DqzxOlCXqZe3w&oe=6AB8A4D1&_nc_sid=4ee932",
+          "timestamp": 1790373181938
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790373184232
+        }
+      ]
+    },
+    "201009502642257@lid": {
+      "nome": "Antonio Lima",
+      "pausado": true,
+      "pausadoEm": 1790101144394,
+      "ultimaAtividade": 1790101260819,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Oi Edilene! Tudo certo?",
+          "timestamp": 1787944362340
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎",
+          "timestamp": 1787944362620
+        },
+        {
+          "de": "cliente",
+          "texto": "Antonio da Odoo aqui! Vi que quer testar nosso sistema para a Luz & Brilho, isso?",
+          "timestamp": 1787944403848
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1787944405884
+        },
+        {
+          "de": "cliente",
+          "texto": "Oi Edilene! Tudo certo?",
+          "timestamp": 1790101132462
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1790101132778
+        },
+        {
+          "de": "cliente",
+          "texto": "Quero atendimento humano",
+          "timestamp": 1790101142876
+        },
+        {
+          "de": "bot",
+          "texto": "Combinado! 🙋 Já avisei nossa equipe e alguém vai te atender por aqui em instantes. Só um instantinho, por favor!",
+          "timestamp": 1790101144507
+        },
+        {
+          "de": "cliente",
+          "texto": "Falei com você mês passado sobre controlar suas despesas, suas vendas e um site!",
+          "timestamp": 1790101225491
+        },
+        {
+          "de": "cliente",
+          "texto": "Ficamos de conversar agora no fim de setembro!",
+          "timestamp": 1790101237829
+        },
+        {
+          "de": "cliente",
+          "texto": "Me diz, ainda precisa controlar essas coisas para a Luz & Brilho?",
+          "timestamp": 1790101260819
+        }
+      ]
+    },
+    "104363561357474@lid": {
+      "nome": "Jadson",
+      "pausado": true,
+      "pausadoEm": 1788027222110,
+      "ultimaAtividade": 1788019135262,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Assista a vídeos de produtos...\nhttps://www.mercadolivre.com.br/clips/?shortsparams=true&type=short&short_id=LGssKt&origin=share&item_id=MLB6206644058&st=2233125838&matt_tool=73180307#origin=share",
+          "timestamp": 1788019135262
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788019136933
+        }
+      ]
+    },
+    "8427212419154@lid": {
+      "nome": "Jocilene",
+      "pausado": true,
+      "pausadoEm": 1790106319632,
+      "ultimaAtividade": 1788127636201,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Oi",
+          "timestamp": 1788127636201
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1788127636473
+        }
+      ]
+    },
+    "91517247066326@lid": {
+      "nome": "minininhasouza5",
+      "pausado": true,
+      "pausadoEm": 1790106287494,
+      "ultimaAtividade": 1790013727801,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Ok",
+          "timestamp": 1788354485395
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788354487277
+        },
+        {
+          "de": "cliente",
+          "texto": "Ok",
+          "timestamp": 1788354605550
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788354605881
+        },
+        {
+          "de": "cliente",
+          "texto": "https://www.instagram.com/reel/DdearagOKY8/?stkn=dTJqeXgyb3JsMGxl",
+          "timestamp": 1790013727801
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790013727907
+        }
+      ]
+    },
+    "195301272977579@lid": {
+      "nome": "♊️",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1788368146287,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Certo",
+          "timestamp": 1788364352052
+        },
+        {
+          "de": "bot",
+          "texto": "Ótima pergunta ✨ Pra acertar o tom da base ou corretivo, me manda uma foto do seu rosto com luz natural (sem filtro) que a gente te ajuda a escolher, ou se preferir pode vir aqui na loja pra testar!",
+          "timestamp": 1788364352471
+        },
+        {
+          "de": "cliente",
+          "texto": "??",
+          "timestamp": 1788364532131
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788364532137
+        },
+        {
+          "de": "cliente",
+          "texto": "🤦‍♂️🤦‍♂️",
+          "timestamp": 1788364549947
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788364549953
+        },
+        {
+          "de": "cliente",
+          "texto": "😂😂😂😂😂",
+          "timestamp": 1788365038588
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788365040266
+        },
+        {
+          "de": "cliente",
+          "texto": "se for pro lado da rua e vc ver bolsa pequena   me mande ft",
+          "timestamp": 1788368146287
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788368146423
+        }
+      ]
+    },
+    "178468893536294@lid": {
+      "nome": "Atacado Bijus e Utilidades",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1788441612467,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Olá, *Edilene Santana*!\n\n\nVimos que você colocou alguns itens no carrinho 🛒, porém não chegou a finalizar o pedido.\n\n\nSurgiu alguma dúvida? Estamos à sua disposição! 😉\n\n\nPara recuperar seu carrinho, acesse:\nhttps://facilzap.app.br/atacadobijuseutilidades/carrinho?id=48704-9cb9179a-832b-43f1-a11a-523a9f070fa1\n#fz",
+          "timestamp": 1788441612467
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1788441614391
+        }
+      ]
+    },
+    "279993364009032@lid": {
+      "nome": "………",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1788898489046,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Boa tarde",
+          "timestamp": 1788898489046
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1788898489180
+        }
+      ]
+    },
+    "37250905677973@lid": {
+      "nome": "Noc Administrativo",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1789047755898,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "vc vai na caixa quando receber os papeis da homologação",
+          "timestamp": 1788899707457
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1788899709186
+        },
+        {
+          "de": "cliente",
+          "texto": "OI Bom dia",
+          "timestamp": 1789045733675
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789045733770
+        },
+        {
+          "de": "cliente",
+          "texto": "ta aqui pela cidade hoje?",
+          "timestamp": 1789045742304
+        },
+        {
+          "de": "bot",
+          "texto": "Depende do horário do pedido, mas fazemos o possível para entregar embalado ainda hoje 🎁. Me diga o produto e seu bairro que já te confirmo!",
+          "timestamp": 1789045743923
+        },
+        {
+          "de": "cliente",
+          "texto": "certo",
+          "timestamp": 1789047745847
+        },
+        {
+          "de": "cliente",
+          "texto": "ja estou com os documentos",
+          "timestamp": 1789047755898
+        },
+        {
+          "de": "bot",
+          "texto": "Ótima pergunta ✨ Pra acertar o tom da base ou corretivo, me manda uma foto do seu rosto com luz natural (sem filtro) que a gente te ajuda a escolher, ou se preferir pode vir aqui na loja pra testar!",
+          "timestamp": 1789047763379
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789047788484
+        }
+      ]
+    },
+    "92750171099178@lid": {
+      "nome": "Nilla Papelaria",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1789038871833,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Infelizmente não.🥺",
+          "timestamp": 1789038871833
+        },
+        {
+          "de": "bot",
+          "texto": "Nosso atendimento por aqui é feito o mais rápido possível! Se quiser ver os produtos a qualquer hora, o site fica disponível 24h 😉",
+          "timestamp": 1789038873310
+        }
+      ]
+    },
+    "46892486500489@lid": {
+      "nome": "Leide Líder Natura",
+      "pausado": true,
+      "pausadoEm": 1789999639010,
+      "ultimaAtividade": 1789993827528,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Bom dia Edilene!\nTudo bem?\nAssim que passar os pedidos mim fale pra mim colocar seu nome pra participar dos dois sorteios",
+          "timestamp": 1789043919208
+        },
+        {
+          "de": "bot",
+          "texto": "Para Simão Dias o frete é GRÁTIS! 🛵✨",
+          "timestamp": 1789043930818
+        },
+        {
+          "de": "cliente",
+          "texto": "Pronto!👏👏",
+          "timestamp": 1789043980302
+        },
+        {
+          "de": "bot",
+          "texto": "Ótima pergunta ✨ Pra acertar o tom da base ou corretivo, me manda uma foto do seu rosto com luz natural (sem filtro) que a gente te ajuda a escolher, ou se preferir pode vir aqui na loja pra testar!",
+          "timestamp": 1789043980439
+        },
+        {
+          "de": "cliente",
+          "texto": "Edilene mim mande o código pro favor",
+          "timestamp": 1789073611369
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789073611510
+        },
+        {
+          "de": "cliente",
+          "texto": "Oi?",
+          "timestamp": 1789074820668
+        },
+        {
+          "de": "cliente",
+          "texto": "Viu",
+          "timestamp": 1789074937071
+        },
+        {
+          "de": "cliente",
+          "texto": "Edilene tô no aguardo viu",
+          "timestamp": 1789077117381
+        },
+        {
+          "de": "cliente",
+          "texto": "Se vc quiser pode mim mandar que passo",
+          "timestamp": 1789078136843
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789078138289
+        },
+        {
+          "de": "cliente",
+          "texto": "Viu",
+          "timestamp": 1789078947154
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789078951886
+        },
+        {
+          "de": "cliente",
+          "texto": "Oi Edilene, conseguiu ver os produtos ?",
+          "timestamp": 1789088372870
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789088374125
+        },
+        {
+          "de": "cliente",
+          "texto": "Vc já fez?\nOu vai mandar pra mim passar ?",
+          "timestamp": 1789088955512
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789088955643
+        },
+        {
+          "de": "cliente",
+          "texto": "Pode mandar eu faço pra vc",
+          "timestamp": 1789088994237
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789088995581
+        },
+        {
+          "de": "cliente",
+          "texto": "E lhe mando o link",
+          "timestamp": 1789088997680
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1789088997818
+        },
+        {
+          "de": "cliente",
+          "texto": "Pra vc confirmar",
+          "timestamp": 1789089003214
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789089003349
+        },
+        {
+          "de": "cliente",
+          "texto": "Viu",
+          "timestamp": 1789089143614
+        },
+        {
+          "de": "cliente",
+          "texto": "Oi",
+          "timestamp": 1789090460243
+        },
+        {
+          "de": "cliente",
+          "texto": "Viu fazer agora a",
+          "timestamp": 1789090478302
+        },
+        {
+          "de": "cliente",
+          "texto": "Faltou o 121961 refil hidratante todo dia",
+          "timestamp": 1789090633440
+        },
+        {
+          "de": "cliente",
+          "texto": "Vc quer pra 1 ou 2 vezes",
+          "timestamp": 1789090796588
+        },
+        {
+          "de": "cliente",
+          "texto": "https://approver-link.prd.loan.naturabanking.com/65c973fc-d3db-4fba-a0a9-a50f9d7505a0",
+          "timestamp": 1789090838594
+        },
+        {
+          "de": "cliente",
+          "texto": "Confirme o link por favor",
+          "timestamp": 1789090849092
+        },
+        {
+          "de": "cliente",
+          "texto": "Conseguiu?",
+          "timestamp": 1789090979252
+        },
+        {
+          "de": "cliente",
+          "texto": "Boa noite!\nJesus abençoe ❤️\nBoas vendas!",
+          "timestamp": 1789091075848
+        },
+        {
+          "de": "cliente",
+          "texto": "Revista do ciclo 14",
+          "timestamp": 1789091101306
+        },
+        {
+          "de": "cliente",
+          "texto": "Boa noite!@all",
+          "timestamp": 1789689436910
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789689437045
+        },
+        {
+          "de": "cliente",
+          "texto": "Jornal do cliente Natura",
+          "timestamp": 1789689442925
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789689442931
+        },
+        {
+          "de": "cliente",
+          "texto": "Bom diiiiiiiiiiiiia! 🧡🩷☀️",
+          "timestamp": 1789993827528
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789993827679
+        }
+      ]
+    },
+    "162831001514071@lid": {
+      "nome": "Aliane Correia✨🌼🍀💐",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1789073365473,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Edilene",
+          "timestamp": 1789068382170
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789068383856
+        },
+        {
+          "de": "cliente",
+          "texto": "Bom dia me chamo Aliane correia suporte de vendas natura e Avon tudo bem?vc ja organizou seu pedido desse ciclo? \nPosso fechar algum combo p vc?\nTemos 2 incentivo rolando aí.",
+          "timestamp": 1789068387289
+        },
+        {
+          "de": "bot",
+          "texto": "Para Simão Dias o frete é GRÁTIS! 🛵✨",
+          "timestamp": 1789068387598
+        },
+        {
+          "de": "cliente",
+          "texto": "Mas o q?",
+          "timestamp": 1789073365473
+        },
+        {
+          "de": "bot",
+          "texto": "Trabalhamos com diversas marcas de cosméticos e maquiagem com pronta entrega 💄. Me diga o que você procura que já te confirmo se temos em estoque!",
+          "timestamp": 1789073367025
+        }
+      ]
+    },
+    "181750181441683@lid": {
+      "nome": "Adriana",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1789203503085,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "😂",
+          "timestamp": 1789203503085
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789203544408
+        }
+      ]
+    },
+    "1095127849636954": {
+      "nome": "1095127849636954",
+      "canal": "instagram",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1789257193525,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789252240304
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789252398265
+        },
+        {
+          "de": "cliente",
+          "texto": "Test",
+          "timestamp": 1789252599532
+        },
+        {
+          "de": "cliente",
+          "texto": "Test",
+          "timestamp": 1789253263840
+        },
+        {
+          "de": "cliente",
+          "texto": "Test",
+          "timestamp": 1789253577337
+        },
+        {
+          "de": "cliente",
+          "texto": "Test",
+          "timestamp": 1789254016537
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789254262269
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789254334539
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789254424292
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789254501174
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789254501794
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789254837078
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789254837650
+        },
+        {
+          "de": "cliente",
+          "texto": "Ola",
+          "timestamp": 1789255578452
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789255579067
+        },
+        {
+          "de": "cliente",
+          "texto": "O robo ta funcionando so que alguma coisa do instagram ta bloqueiando que o robo mande mensagem kkkk",
+          "timestamp": 1789256380298
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789256382039
+        },
+        {
+          "de": "cliente",
+          "texto": "E isso que to vendo",
+          "timestamp": 1789257193525
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789257207640
+        }
+      ]
+    },
+    "113778045780150@lid": {
+      "nome": "+113778045780150",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790188165356,
+      "ultimaAtividade": 1789514380276,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Ola, sou entregador da natura",
+          "timestamp": 1789514380276
+        },
+        {
+          "de": "bot",
+          "texto": "Sim, você pode retirar seu pedido direto com a gente 🏠 ou receber por entrega, como preferir!",
+          "timestamp": 1789514382110
+        }
+      ]
+    },
+    "98746129977421@lid": {
+      "nome": "Gidelmo Oliveira",
+      "canal": "whatsapp",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1789739932466,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Ola, sou entregador da natura",
+          "timestamp": 1789739825397
+        },
+        {
+          "de": "bot",
+          "texto": "Sim, você pode retirar seu pedido direto com a gente 🏠 ou receber por entrega, como preferir!",
+          "timestamp": 1789739827050
+        },
+        {
+          "de": "cliente",
+          "texto": "Ok",
+          "timestamp": 1789739932466
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789739932701
+        }
+      ]
+    },
+    "223999808258164@lid": {
+      "nome": "Josefa Reis",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790106305978,
+      "ultimaAtividade": 1789749973091,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Bom dia",
+          "timestamp": 1789742020195
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789742020482
+        },
+        {
+          "de": "cliente",
+          "texto": "Viu tá certo eu pego",
+          "timestamp": 1789742065710
+        },
+        {
+          "de": "bot",
+          "texto": "Ótima pergunta ✨ Pra acertar o tom da base ou corretivo, me manda uma foto do seu rosto com luz natural (sem filtro) que a gente te ajuda a escolher, ou se preferir pode vir aqui na loja pra testar!",
+          "timestamp": 1789742067551
+        },
+        {
+          "de": "cliente",
+          "texto": "Já chegou sua caixa viu tá aqui em casa 🏠",
+          "timestamp": 1789749812174
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789749812290
+        },
+        {
+          "de": "cliente",
+          "texto": "Ok por nada 🥰",
+          "timestamp": 1789749973091
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1789749973212
+        }
+      ]
+    },
+    "177579751416051@lid": {
+      "nome": "meireandrade6869",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1789999602059,
+      "ultimaAtividade": 1789999977604,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Bom dia",
+          "timestamp": 1789999454426
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1789999454564
+        },
+        {
+          "de": "cliente",
+          "texto": "vejo que esse número não é mais da pessoa que procuro",
+          "timestamp": 1789999661224
+        },
+        {
+          "de": "cliente",
+          "texto": "edilene",
+          "timestamp": 1789999778560
+        },
+        {
+          "de": "cliente",
+          "texto": "nao",
+          "timestamp": 1789999975055
+        },
+        {
+          "de": "cliente",
+          "texto": "obrigada",
+          "timestamp": 1789999977604
+        }
+      ]
+    },
+    "250002060382454@lid": {
+      "nome": "+250002060382454",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790106263552,
+      "ultimaAtividade": 1790106292047,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Para esta demanda, será necessário o *contato com nossos atendentes* 👩‍💻.\n\nJá direcionamos você e em breve você será *atendido* 😀.",
+          "timestamp": 1790089506430
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790089508864
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou *encerrar a nossa conversa* por aqui, mas saiba que se precisar de mim, é só me chamar mais uma vez! 😉\n\nTe vejo na próxima! 👋\n\n*JRPV Brasil* - Conte sempre conosco!",
+          "timestamp": 1790092462298
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790092464730
+        },
+        {
+          "de": "cliente",
+          "texto": "Nossos atendentes estão em pausa, mas não se preocupe, em breve iremos falar com você. 😉",
+          "timestamp": 1790093118869
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790093120501
+        },
+        {
+          "de": "cliente",
+          "texto": "Bom dia, me chamo Priscila, faço parte da JR PV Brasil, como você está ?😄",
+          "timestamp": 1790095392100
+        },
+        {
+          "de": "bot",
+          "texto": "Para Simão Dias o frete é GRÁTIS! 🛵✨",
+          "timestamp": 1790095394191
+        },
+        {
+          "de": "cliente",
+          "texto": "Como posso ajudar?",
+          "timestamp": 1790095396718
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790095396852
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou *encerrar a nossa conversa* por aqui, mas saiba que se precisar de mim, é só me chamar mais uma vez! 😉\n\nTe vejo na próxima! 👋\n\n*JRPV Brasil* - Conte sempre conosco!",
+          "timestamp": 1790096060716
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790096062608
+        },
+        {
+          "de": "cliente",
+          "texto": "Para esta demanda, será necessário o *contato com nossos atendentes* 👩‍💻.\n\nJá direcionamos você e em breve você será *atendido* 😀.",
+          "timestamp": 1790096722524
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790096723944
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou *encerrar a nossa conversa* por aqui, mas saiba que se precisar de mim, é só me chamar mais uma vez! 😉\n\nTe vejo na próxima! 👋\n\n*JRPV Brasil* - Conte sempre conosco!",
+          "timestamp": 1790098051278
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790098052677
+        },
+        {
+          "de": "cliente",
+          "texto": "Para esta demanda, será necessário o *contato com nossos atendentes* 👩‍💻.\n\nJá direcionamos você e em breve você será *atendido* 😀.",
+          "timestamp": 1790098820141
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790098826663
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou *encerrar a nossa conversa* por aqui, mas saiba que se precisar de mim, é só me chamar mais uma vez! 😉\n\nTe vejo na próxima! 👋\n\n*JRPV Brasil* - Conte sempre conosco!",
+          "timestamp": 1790100550210
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790100551800
+        },
+        {
+          "de": "cliente",
+          "texto": "Para esta demanda, será necessário o *contato com nossos atendentes* 👩‍💻.\n\nJá direcionamos você e em breve você será *atendido* 😀.",
+          "timestamp": 1790101218896
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790101220361
+        },
+        {
+          "de": "cliente",
+          "texto": "Boa tarde, me chamo Thamara, faço parte da JR PV Brasil, como você está ?😄",
+          "timestamp": 1790101243991
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790101244126
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou *encerrar a nossa conversa* por aqui, mas saiba que se precisar de mim, é só me chamar mais uma vez! 😉\n\nTe vejo na próxima! 👋\n\n*JRPV Brasil* - Conte sempre conosco!",
+          "timestamp": 1790106089375
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790106090948
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou *encerrar a nossa conversa* por aqui, mas saiba que se precisar de mim, é só me chamar mais uma vez! 😉\n\nTe vejo na próxima! 👋\n\n*JRPV Brasil* - Conte sempre conosco!",
+          "timestamp": 1790106184737
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790106185039
+        },
+        {
+          "de": "atendente",
+          "texto": "Encerrar",
+          "atendente": "Edilene",
+          "timestamp": 1790106238821
+        },
+        {
+          "de": "cliente",
+          "texto": "Desculpe, não consegui entender!",
+          "timestamp": 1790106244423
+        },
+        {
+          "de": "cliente",
+          "texto": "Estamos passando por uma instabilidade",
+          "timestamp": 1790106246137
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou lhe encaminhar para nossos atendentes, eles poderão lhe auxiliar.",
+          "timestamp": 1790106246976
+        },
+        {
+          "de": "cliente",
+          "texto": "Para esta demanda, será necessário o *contato com nossos atendentes* 👩‍💻.\n\nJá direcionamos você e em breve você será *atendido* 😀.",
+          "timestamp": 1790106258947
+        },
+        {
+          "de": "atendente",
+          "texto": "Encerrar",
+          "atendente": "Edilene",
+          "timestamp": 1790106263552
+        },
+        {
+          "de": "cliente",
+          "texto": "Vou *encerrar a nossa conversa* por aqui, mas saiba que se precisar de mim, é só me chamar mais uma vez! 😉\n\nTe vejo na próxima! 👋\n\n*JRPV Brasil* - Conte sempre conosco!",
+          "timestamp": 1790106292047
+        }
+      ]
+    },
+    "131752467140689@lid": {
+      "nome": "Alana Viviane 🌸",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790181669038,
+      "ultimaAtividade": 1790110806407,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Oie",
+          "timestamp": 1790108792197
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1790108792541
+        },
+        {
+          "de": "cliente",
+          "texto": "Boa tarde",
+          "timestamp": 1790108794344
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1790108794660
+        },
+        {
+          "de": "cliente",
+          "texto": "Chegou pacote pra você lá na uaubr",
+          "timestamp": 1790108802019
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790108803975
+        },
+        {
+          "de": "cliente",
+          "texto": "Rsrs",
+          "timestamp": 1790108806854
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790108807191
+        },
+        {
+          "de": "cliente",
+          "texto": "Isso",
+          "timestamp": 1790109145345
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790109145813
+        },
+        {
+          "de": "cliente",
+          "texto": "Magina",
+          "timestamp": 1790110806407
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Todos os produtos do nosso catálogo são 100% originais e novos ✅",
+          "timestamp": 1790110807931
+        }
+      ]
+    },
+    "68621179027561@lid": {
+      "nome": "+68621179027561",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790694975051,
+      "ultimaAtividade": 1790694975164,
+      "mensagens": [
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694621305
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694634724
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694634868
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694648290
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694648433
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694661674
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694661818
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694675451
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694675595
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694689905
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694690052
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694703497
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694703640
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694718319
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694718471
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694732432
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694732576
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694745917
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694746059
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694759310
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694759453
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694777463
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694777608
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694794694
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694794836
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694808076
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694808219
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694821829
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694821977
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694835655
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694835800
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694849283
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694849428
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694862900
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694863047
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694876808
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694876951
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694891875
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694892018
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694906381
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694906525
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694920035
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694920180
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694933893
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694934037
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694947258
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694947402
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694961194
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790694961338
+        },
+        {
+          "de": "cliente",
+          "texto": "Olá! Este canal é exclusivo para a contratação do upgrade do seu cartão PicPay.\nPara mais informações ou atendimento, acesse diretamente o app do PicPay, lá você encontra todos os serviços com segurança e praticidade. ✅",
+          "timestamp": 1790694975164
+        }
+      ]
+    },
+    "136473038852341@lid": {
+      "nome": "Jordan",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790188124717,
+      "ultimaAtividade": 1790185025545,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Boa tarde",
+          "timestamp": 1790185019896
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1790185020945
+        },
+        {
+          "de": "cliente",
+          "texto": "E o entregador do mercado livre",
+          "timestamp": 1790185025545
+        },
+        {
+          "de": "bot",
+          "texto": "Sim, você pode retirar seu pedido direto com a gente 🏠 ou receber por entrega, como preferir!",
+          "timestamp": 1790185027239
+        }
+      ]
+    },
+    "20534272237664@lid": {
+      "nome": "Agda semijoias",
+      "canal": "whatsapp",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1790508981130,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Olá, bem vindo(a) à AGDA SEMIJOIAS. Me chamo *Sarah* e serei responsável pelo seu atendimento. Aqui vai algumas informações que você precisa saber sobre a nossa marca.\nPara adquirir as nossas peças em *ALTO ATACADO* você precisa atender os seguintes pré requisitos:\n*•Ser lojista físico* \n*•Ter CNPJ da loja*\nOBS:Não estamos abrindo cadastro para *SERGIPE* no momento.\nNos solicite o distribuidor mais próximo de você.\nAgradecemos por escolher a nossa marca!",
+          "timestamp": 1790508981130
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790508981251
+        }
+      ]
+    },
+    "164489194397882@lid": {
+      "nome": "Rei do Aço",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790602052783,
+      "ultimaAtividade": 1790603199311,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "🖤🖤 Confira a nossa lista de catálogo via link 🖤🖤\n\nBrincos prata https://www.canva.com/design/DAG67ITm9TA/Aw3WTHDb0v_nGYKaOEYMgQ/edit?utm_content=DAG67ITm9TA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nBrincos Dourado https://www.canva.com/design/DAG67E0bkZo/RXZtJ355GfsV6c47HZq5vg/edit?utm_content=DAG67E0bkZo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nColar prata https://www.canva.com/design/DAG6ZYDX1fg/OKROr7MRg7yZBuLHwvFGiQ/edit?utm_content=DAG6ZYDX1fg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nColar dourado https://www.canva.com/design/DAG67PnApZ0/RPxQoAtBmd_zKbtetjA4ag/edit?utm_content=DAG67PnApZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nPulseiras prata https://www.canva.com/design/DAG67K30_ng/k9Rs0KyfDgAbbHNyPZ9xvQ/edit?utm_content=DAG67K30_ng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nPulseiras douradas https://www.canva.com/design/DAG67F0vvJA/_1I5Z4PTiQGAdPsZ9R2-ag/edit?utm_content=DAG67F0vvJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nPingentes prata e dourado https://www.canva.com/design/DAG67KALaJg/c2W-KxlcuhHT0HZbqRi8qg/edit?utm_content=DAG67KALaJg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nBerloques https://www.canva.com/design/DAG67MJtVCM/QL_JoPod0joU21yv_1h3ag/edit?utm_content=DAG67MJtVCM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nAnéis prata e dourado \nhttps://www.canva.com/design/DAG--nDGJUQ/gRq5quNMNqSJ9Trr1h1pEg/edit?utm_content=DAG--nDGJUQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nPiercing\nhttps://www.canva.com/design/DAG67ILww9s/6hDEJpDdQ7Xq4ewxdTvyrg/edit?utm_content=DAG67ILww9s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+          "timestamp": 1790601690278
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790601690591
+        },
+        {
+          "de": "cliente",
+          "texto": "Bom diaa ❤️",
+          "timestamp": 1790601702444
+        },
+        {
+          "de": "bot",
+          "texto": "Para Simão Dias o frete é GRÁTIS! 🛵✨",
+          "timestamp": 1790601702590
+        },
+        {
+          "de": "cliente",
+          "texto": "Simm",
+          "timestamp": 1790602012743
+        },
+        {
+          "de": "bot",
+          "texto": "Para Simão Dias o frete é GRÁTIS! 🛵✨",
+          "timestamp": 1790602012878
+        },
+        {
+          "de": "cliente",
+          "texto": "Possuímos três formas de venda. ❤️\nVarejo: 1-4 peças, podendo ser iguais ou diferentes. \nAtacado: Acima de 5 peças, podendo ser iguais ou diferentes. \nRevenda: Acima de 200,00 reais. Podendo as peças serem iguais ou diferentes. (As peças no valor de revenda possuem de 40 à 60% de desconto em comparação ao varejo). ❤️",
+          "timestamp": 1790603199311
+        }
+      ]
+    },
+    "105343384342728@lid": {
+      "nome": "DafuAtacado",
+      "canal": "whatsapp",
+      "pausado": true,
+      "pausadoEm": 1790682619061,
+      "ultimaAtividade": 1790685843938,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Bom dia, tudo bem?",
+          "timestamp": 1790682341716
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1790682342477
+        },
+        {
+          "de": "cliente",
+          "texto": "*Catalogo Dafu*\n📦 Somente Atacado \n❌Não fazemos orçamentos\n⚠️Pedido Minimo R$ 2.000,00\n🚚 Enviamos para todos os Países \n💰Pagamentos Facilitados \n\n🔗https://drive.google.com/drive/folders/1lTGVvi-4s-A_ULxWtTsd_ruly9O_7igU\n\n🔗https://drive.google.com/drive/folders/1-RDUish5Ev7DKxJ05gISEGVaNwXp2_8J\n\nPara dar continuidade ao atendimento, por favor informe seu nome e CPF/CNPJ",
+          "timestamp": 1790682344510
+        },
+        {
+          "de": "bot",
+          "texto": "Sim! Aceitamos cartão de crédito, debitó, Pix e dinheiro na hora da entrega 💳✅",
+          "timestamp": 1790682346445
+        },
+        {
+          "de": "cliente",
+          "texto": "Segundo link contem o pdf da categoria de bijuterias",
+          "timestamp": 1790684293963
+        },
+        {
+          "de": "cliente",
+          "texto": "vendemos somente atacado por box ou caixa fechada, valor mínimo loja física 500,00 on-line 2.000 whats 1.000 \n(Não vendemos por unidade)",
+          "timestamp": 1790685654630
+        },
+        {
+          "de": "cliente",
+          "texto": "Infelizmente os chineses nao liberam compras sem o valor minimo atingido",
+          "timestamp": 1790685843938
+        }
+      ]
+    },
+    "228187334254809@lid": {
+      "nome": "Eudiclaudia Morais",
+      "canal": "whatsapp",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1790720608306,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "Oi",
+          "timestamp": 1790700352144
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1790700353133
+        },
+        {
+          "de": "cliente",
+          "texto": "Boa tarde",
+          "timestamp": 1790700354952
+        },
+        {
+          "de": "bot",
+          "texto": "✨ Olá!☺️ Seja bem-vindo(a) à Luz e Brilho Cosméticos e Acessórios.\n\nEm que podemos ajudar hoje?\n\nEnvie sua dúvida e responderemos o mais breve possível.🤎\n\nSe preferir falar direto com um atendente, é só mandar *\"quero atendimento humano\"* que a gente já chama alguém pra te ajudar! 🙋",
+          "timestamp": 1790700355252
+        },
+        {
+          "de": "cliente",
+          "texto": "Depois me passe os dados de Bernardo. \nIrei fazer um desse para ele.",
+          "timestamp": 1790700405204
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790700405506
+        },
+        {
+          "de": "cliente",
+          "texto": "Tá certo",
+          "timestamp": 1790720608306
+        },
+        {
+          "de": "bot",
+          "texto": "Ótima pergunta ✨ Pra acertar o tom da base ou corretivo, me manda uma foto do seu rosto com luz natural (sem filtro) que a gente te ajuda a escolher, ou se preferir pode vir aqui na loja pra testar!",
+          "timestamp": 1790720609833
+        }
+      ]
+    },
+    "143057492123771@lid": {
+      "nome": "Rs Folheados",
+      "canal": "whatsapp",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1790701021501,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "✨RS Folheados ✨\n\n✔️*Atacado mínimo 99,90*\n✔️ Seguro da caixa por conta do cliente \n✔️Temos frete fixo para cada região\n\n▪️ Catálogo: https://facilzap.app.br/rsfolheados\n\n▪️Grupo: https://chat.whatsapp.com/E3QgVtOehmZ6yqnQnQPGe9?s=cl&p=a&mlu=4\n\n💵 Desconto de 13% no pedido para pagamento no Pix\nOu \n💳 7x sem juros no cartão de crédito",
+          "timestamp": 1790701020662
+        },
+        {
+          "de": "cliente",
+          "texto": "▫️ Olá! \nFaça seu pedido no catálogo acima 👆🏼\n\nComo comprar: \n1 - Adicione suas peças no carrinho (mínimo 99,90)\n2 - Finalize a compra\n3 - Preencha seu cadastro\n4 - Encaminhe o pedido pelo whatsapp e aguarde o nosso retorno!",
+          "timestamp": 1790701021501
+        },
+        {
+          "de": "bot",
+          "texto": "Para Rosa Elze - São Cristovão o valor do frete é R$ 40,00 🛵",
+          "timestamp": 1790701023395
+        },
+        {
+          "de": "bot",
+          "texto": "Claro! 😊\n\n🛍️ Site da loja: https://luzebrilhocosmeticos.netlify.app/index.html\n📲 Baixar o app: https://luzebrilhocosmeticos.netlify.app/baixar-app.html",
+          "timestamp": 1790701032851
+        }
+      ]
+    },
+    "263603735257174@lid": {
+      "nome": "Marli Santos🌹❤️🙏🙏",
+      "canal": "whatsapp",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1790712605300,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "😍",
+          "timestamp": 1790712605300
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790712606957
+        }
+      ]
+    },
+    "206249178210323@lid": {
+      "nome": "+206249178210323",
+      "canal": "whatsapp",
+      "pausado": false,
+      "pausadoEm": null,
+      "ultimaAtividade": 1790712919124,
+      "mensagens": [
+        {
+          "de": "cliente",
+          "texto": "A seguir, Iremos te direcionar a uma\nconsultora de compras em uma de nossas lojas. Enquanto isso, vou te enviar nosso catálogo on-line para apreciar nossas joias.\n\nhttps://drive.google.com/drive/folders/1diuf72miuH9eZuRa1vMSySKV481OpLdp?hl=pt-br",
+          "timestamp": 1790712907374
+        },
+        {
+          "de": "bot",
+          "texto": "Para Simão Dias o frete é GRÁTIS! 🛵✨",
+          "timestamp": 1790712908022
+        },
+        {
+          "de": "cliente",
+          "texto": "Não entendi, poderia repetir?",
+          "timestamp": 1790712911376
+        },
+        {
+          "de": "bot",
+          "texto": "Sim, trazemos por encomenda! 📦 Me conta qual produto você está procurando que a gente verifica disponibilidade e prazo pra você.",
+          "timestamp": 1790712911753
+        },
+        {
+          "de": "cliente",
+          "texto": "Não entendi, poderia repetir?",
+          "timestamp": 1790712915040
+        },
+        {
+          "de": "bot",
+          "texto": "Sim, trazemos por encomenda! 📦 Me conta qual produto você está procurando que a gente verifica disponibilidade e prazo pra você.",
+          "timestamp": 1790712915689
+        },
+        {
+          "de": "cliente",
+          "texto": "Como não entendi sua resposta, estarei te direcionando para uma de nossas equipes.",
+          "timestamp": 1790712919124
+        },
+        {
+          "de": "bot",
+          "texto": "Oi! Não consegui entender sua pergunta automaticamente 🙏 Já vamos te chamar por aqui, só um instante!",
+          "timestamp": 1790712919541
+        }
+      ]
+    }
+  }
+}

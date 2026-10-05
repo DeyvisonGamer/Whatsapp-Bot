@@ -1,0 +1,34 @@
+[
+  {
+    "cepInicio": "49480000",
+    "cepFim": "49480000",
+    "descricao": "Simão Dias",
+    "valorPadrao": 0,
+    "valorExpresso": 0,
+    "gratisAcimaDe": 0
+  },
+  {
+    "cepInicio": "49400000",
+    "cepFim": "49479999",
+    "descricao": "Lagarto",
+    "valorPadrao": 15.00,
+    "valorExpresso": 0,
+    "gratisAcimaDe": 0
+  },
+  {
+    "cepInicio": "49107254",
+    "cepFim": "49107254",
+    "descricao": "Rosa Elze - São Cristovão",
+    "valorPadrao": 40.00,
+    "valorExpresso": 0,
+    "gratisAcimaDe": 0
+  },
+  {
+    "cepInicio": "48433655",
+    "cepFim": "48433655",
+    "descricao": "Paripiranga",
+    "valorPadrao": 40.00,
+    "valorExpresso": 0,
+    "gratisAcimaDe": 0
+  }
+]

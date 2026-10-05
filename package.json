@@ -1,0 +1,18 @@
+{
+  "name": "luz-e-brilho-bot",
+  "version": "6.0.0",
+  "description": "Bot de FAQ automático para WhatsApp com painel de atendimento humano",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "qrcode-terminal": "^0.12.0",
+    "string-similarity": "^4.0.4",
+    "express": "^4.19.2",
+    "localtunnel": "^2.0.2",
+    "nodemailer": "^6.9.14",
+    "dotenv": "^16.4.5"
+  }
+}
