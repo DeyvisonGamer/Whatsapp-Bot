@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#5c4636">
+<link rel="icon" href="/icon-192.png">
+<title>Painel de Atendimento - Luz & Brilho</title>
+<style>
+  :root {
+    --bg: #fdf6f0;
+    --card: #ffffff;
+    --marrom: #8a6d5c;
+    --marrom-escuro: #5c4636;
+    --verde: #3fa34d;
+    --vermelho: #d1495b;
+    --cinza: #8a8a8a;
+    --sombra: 0 2px 8px rgba(0,0,0,0.08);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, Roboto, Segoe UI, sans-serif;
+    background: var(--bg);
+    color: #2b2b2b;
+  }
+  header {
+    background: var(--marrom-escuro);
+    color: #fff;
+    padding: 16px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    padding-bottom: 0;
+  }
+  header #abas-canal { padding: 0; margin: 14px 0 0; }
+  header h1 { margin: 0; font-size: 18px; }
+  header p { margin: 4px 0 0; font-size: 12px; opacity: 0.8; }
+  #lista { padding: 12px; max-width: 700px; margin: 0 auto; }
+
+  /* Abas: WhatsApp / Instagram */
+  #abas-canal {
+    display: flex; gap: 8px; max-width: 700px; margin: 12px auto 0; padding: 0 12px;
+  }
+  .aba-canal {
+    flex: 1; padding: 10px 12px; border-radius: 10px; border: none;
+    background: rgba(255,255,255,0.12); color: #fff; font-size: 13px; font-weight: 600;
+    cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px;
+    opacity: 0.75; transition: opacity .15s, background .15s;
+  }
+  .aba-canal.ativa { background: #fff; color: var(--marrom-escuro); opacity: 1; }
+  .aba-canal .contagem {
+    font-size: 11px; background: rgba(0,0,0,0.12); border-radius: 999px; padding: 1px 7px;
+  }
+  .aba-canal.ativa .contagem { background: #f1eee9; }
+  .conversa {
+    background: var(--card);
+    border-radius: 12px;
+    box-shadow: var(--sombra);
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  .conversa-topo { display: flex; justify-content: space-between; align-items: center; }
+  .nome { font-weight: 600; font-size: 15px; }
+  .badge {
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 999px;
+    font-weight: 600;
+  }
+  .badge.pausado { background: #fdeaea; color: var(--vermelho); }
+  .badge.auto { background: #e9f7ec; color: var(--verde); }
+  .ultima-msg {
+    color: var(--cinza);
+    font-size: 13px;
+    margin-top: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .vazio { text-align: center; color: var(--cinza); padding: 40px 20px; }
+
+  /* Tela de login */
+  #tela-login {
+    min-height: 100vh; display: flex; align-items: center; justify-content: center;
+    padding: 20px;
+  }
+  #login-card {
+    background: var(--card); border-radius: 16px; box-shadow: var(--sombra);
+    padding: 28px 26px; width: 100%; max-width: 340px;
+  }
+  #login-card h1 { margin: 0 0 4px; font-size: 20px; color: var(--marrom-escuro); text-align: center; }
+  #login-card p.subtitulo { margin: 0 0 22px; font-size: 13px; color: var(--cinza); text-align: center; }
+  #login-card label { display: block; font-size: 12px; font-weight: 600; margin-bottom: 6px; color: var(--marrom-escuro); }
+  #login-card input {
+    width: 100%; padding: 11px 12px; margin-bottom: 16px; border: 1px solid #ddd;
+    border-radius: 10px; font-size: 14px;
+  }
+  #btn-login {
+    width: 100%; padding: 12px; border: none; border-radius: 10px;
+    background: var(--marrom-escuro); color: #fff; font-size: 14px; font-weight: 600; cursor: pointer;
+  }
+  #btn-login:disabled { opacity: 0.6; cursor: default; }
+  #login-erro {
+    color: var(--vermelho); font-size: 13px; margin: -6px 0 14px; display: none;
+  }
+  #app { display: none; }
+
+  /* Cabeçalho: sessão do atendente logado */
+  #sessao-atendente {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-top: 8px; font-size: 12px; opacity: 0.9;
+  }
+  #btn-sair {
+    background: rgba(255,255,255,0.15); border: none; color: #fff;
+    padding: 4px 10px; border-radius: 999px; font-size: 11px; cursor: pointer;
+  }
+
+  /* Modal de conversa */
+  #modal {
+    position: fixed; inset: 0; background: rgba(0,0,0,0.4);
+    display: none; align-items: flex-end; justify-content: center;
+    z-index: 100;
+  }
+  #modal.aberto { display: flex; }
+  #modal-conteudo {
+    background: #fff; width: 100%; max-width: 700px;
+    border-radius: 16px 16px 0 0; max-height: 85vh;
+    display: flex; flex-direction: column;
+  }
+  #modal-header {
+    padding: 14px 18px; border-bottom: 1px solid #eee;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  #modal-header h2 { margin: 0; font-size: 16px; }
+  #fechar-modal { background: none; border: none; font-size: 22px; cursor: pointer; color: var(--cinza); }
+  #mensagens { padding: 14px 18px; overflow-y: auto; flex: 1; }
+  .msg { margin-bottom: 10px; max-width: 80%; padding: 8px 12px; border-radius: 10px; font-size: 14px; }
+  .msg.cliente { background: #f1eee9; margin-right: auto; }
+  .msg.bot { background: #e6f0ff; margin-left: auto; }
+  .msg.atendente { background: #e9f7ec; margin-left: auto; }
+  .msg small { display: block; font-size: 10px; color: var(--cinza); margin-top: 4px; }
+  #modal-acoes { padding: 14px 18px; border-top: 1px solid #eee; display: flex; gap: 10px; }
+  button.acao {
+    flex: 1; padding: 12px; border: none; border-radius: 10px;
+    font-size: 14px; font-weight: 600; cursor: pointer;
+  }
+  button.assumir { background: var(--vermelho); color: #fff; }
+  button.devolver { background: var(--verde); color: #fff; }
+  #enviar-box {
+    padding: 10px 18px; border-top: 1px solid #eee;
+    display: flex; gap: 8px; align-items: center;
+  }
+  #enviar-box input {
+    flex: 1; padding: 10px 12px; border: 1px solid #ddd;
+    border-radius: 10px; font-size: 14px;
+  }
+  #enviar-box input:disabled { opacity: 0.6; }
+  #btn-enviar {
+    padding: 10px 16px; border: none; border-radius: 10px;
+    background: var(--marrom-escuro); color: #fff;
+    font-size: 14px; font-weight: 600; cursor: pointer;
+  }
+  #btn-enviar:disabled { opacity: 0.6; cursor: default; }
+  #renomear-box { padding: 0 18px 10px; }
+  #renomear-box input {
+    width: 100%; padding: 8px 10px; border: 1px solid #ddd; border-radius: 8px; font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<div id="tela-login">
+  <div id="login-card">
+    <h1>💬 Painel de Atendimento</h1>
+    <p class="subtitulo">Entre com o login de atendente</p>
+    <form id="form-login">
+      <label for="input-usuario">Usuário</label>
+      <input id="input-usuario" type="text" autocomplete="username" required>
+      <label for="input-senha">Senha</label>
+      <input id="input-senha" type="password" autocomplete="current-password" required>
+      <div id="login-erro"></div>
+      <button id="btn-login" type="submit">Entrar</button>
+    </form>
+  </div>
+</div>
+
+<div id="app">
+  <header>
+    <h1>💬 Painel de Atendimento</h1>
+    <p>Luz & Brilho — assuma uma conversa pra responder você mesmo</p>
+    <div id="sessao-atendente">
+      <span id="nome-atendente-logado"></span>
+      <button id="btn-sair">Sair</button>
+    </div>
+    <div id="abas-canal">
+      <button class="aba-canal ativa" id="aba-whatsapp" onclick="trocarCanal('whatsapp')">
+        💬 WhatsApp <span class="contagem" id="contagem-whatsapp">0</span>
+      </button>
+      <button class="aba-canal" id="aba-instagram" onclick="trocarCanal('instagram')">
+        📸 Instagram <span class="contagem" id="contagem-instagram">0</span>
+      </button>
+    </div>
+    <div style="height:14px;"></div>
+  </header>
+
+  <div id="lista">
+    <div class="vazio">Carregando conversas...</div>
+  </div>
+
+  <div style="text-align:center;font-size:9px;opacity:.5;padding:6px 0 0;">desenvolvido por Deyvison</div>
+</div>
+
+<div id="modal">
+  <div id="modal-conteudo">
+    <div id="modal-header">
+      <h2 id="modal-nome">Cliente</h2>
+      <button id="fechar-modal">✕</button>
+    </div>
+    <div id="renomear-box">
+      <input id="input-nome" type="text" placeholder="Digite o nome do cliente e aperte Enter">
+    </div>
+    <div id="mensagens"></div>
+    <div id="enviar-box">
+      <input id="input-mensagem" type="text" placeholder="Digite uma mensagem para o cliente...">
+      <button id="btn-enviar">Enviar</button>
+    </div>
+    <div id="modal-acoes"></div>
+  </div>
+</div>
+
+<script>
+// Se você configurou PAINEL_TOKEN no servidor (camada extra opcional),
+// cole o mesmo valor aqui. Deixe vazio ('') se não usa.
+const PAINEL_TOKEN = '';
+
+// Caminho relativo: como o painel.html é servido pelo próprio servidor que
+// também expõe a API, não precisamos (nem devemos) fixar um domínio aqui.
+// Isso funciona automaticamente não importa qual domínio o host te der.
+const API = '';
+
+// --- Sessão do atendente logado (login individual, não é o PAINEL_TOKEN) ---
+const CHAVE_TOKEN_SESSAO = 'painel_sessao_token';
+const CHAVE_NOME_SESSAO = 'painel_sessao_nome';
+
+let jidAberto = null;
+let canalAtivo = 'whatsapp'; // aba selecionada no momento: 'whatsapp' ou 'instagram'
+
+function tokenSessao() {
+  return localStorage.getItem(CHAVE_TOKEN_SESSAO) || '';
+}
+
+function headers() {
+  const h = { 'Content-Type': 'application/json' };
+  if (PAINEL_TOKEN) h['Authorization'] = 'Bearer ' + PAINEL_TOKEN;
+  const t = tokenSessao();
+  if (t) h['Authorization'] = 'Bearer ' + t; // sessão de atendente tem prioridade nas rotas /api
+  return h;
+}
+
+// Faz fetch já tratando sessão expirada/; se o servidor responder 401 em
+// qualquer chamada autenticada, volta pra tela de login.
+async function fetchAutenticado(url, opcoes = {}) {
+  const res = await fetch(url, opcoes);
+  if (res.status === 401) {
+    encerrarSessaoLocal();
+    mostrarTelaLogin('Sua sessão expirou. Entre novamente.');
+    throw new Error('Sessão expirada');
+  }
+  return res;
+}
+
+function mostrarTelaLogin(mensagemErro) {
+  document.getElementById('tela-login').style.display = 'flex';
+  document.getElementById('app').style.display = 'none';
+  const erroEl = document.getElementById('login-erro');
+  if (mensagemErro) {
+    erroEl.textContent = mensagemErro;
+    erroEl.style.display = 'block';
+  } else {
+    erroEl.style.display = 'none';
+  }
+}
+
+function mostrarApp(nome) {
+  document.getElementById('tela-login').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
+  document.getElementById('nome-atendente-logado').textContent = '🙋 ' + nome;
+}
+
+function encerrarSessaoLocal() {
+  localStorage.removeItem(CHAVE_TOKEN_SESSAO);
+  localStorage.removeItem(CHAVE_NOME_SESSAO);
+}
+
+async function fazerLogin(usuario, senha) {
+  const botao = document.getElementById('btn-login');
+  botao.disabled = true;
+  try {
+    const res = await fetch(API + '/api/login', {
+      method: 'POST',
+      headers: PAINEL_TOKEN ? { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + PAINEL_TOKEN } : { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ usuario, senha }),
+    });
+    const dados = await res.json().catch(() => ({}));
+    if (!res.ok) {
+      mostrarTelaLogin(dados.erro || 'Não consegui entrar. Confira usuário e senha.');
+      return;
+    }
+    localStorage.setItem(CHAVE_TOKEN_SESSAO, dados.token);
+    localStorage.setItem(CHAVE_NOME_SESSAO, dados.nome);
+    mostrarApp(dados.nome);
+    carregarLista();
+  } catch (erro) {
+    mostrarTelaLogin('Falha de conexão ao tentar entrar.');
+  } finally {
+    botao.disabled = false;
+  }
+}
+
+async function sair() {
+  try {
+    await fetch(API + '/api/logout', { method: 'POST', headers: headers() });
+  } catch (erro) { /* ignora falha de rede ao sair */ }
+  encerrarSessaoLocal();
+  mostrarTelaLogin();
+}
+
+document.getElementById('form-login').addEventListener('submit', (e) => {
+  e.preventDefault();
+  const usuario = document.getElementById('input-usuario').value.trim();
+  const senha = document.getElementById('input-senha').value;
+  if (!usuario || !senha) return;
+  fazerLogin(usuario, senha);
+});
+
+document.getElementById('btn-sair').onclick = sair;
+
+// Ao carregar a página: se já tem sessão salva, tenta usar direto (e
+// confirma com o servidor via /api/eu); senão, mostra a tela de login.
+async function iniciar() {
+  const token = tokenSessao();
+  const nomeSalvo = localStorage.getItem(CHAVE_NOME_SESSAO);
+  if (!token) {
+    mostrarTelaLogin();
+    return;
+  }
+  try {
+    const res = await fetch(API + '/api/eu', { headers: headers() });
+    if (!res.ok) {
+      encerrarSessaoLocal();
+      mostrarTelaLogin();
+      return;
+    }
+    const dados = await res.json();
+    mostrarApp(dados.nome || nomeSalvo || '');
+    carregarLista();
+    setInterval(carregarLista, 4000);
+  } catch (erro) {
+    mostrarTelaLogin('Falha de conexão ao tentar entrar.');
+  }
+}
+
+// Mostra quem mandou a mensagem: cliente, bot, ou o nome do atendente
+// específico (quando disponível) em vez de só "atendente" genérico.
+function rotuloRemetente(m) {
+  if (m.de === 'cliente') return '👤 cliente';
+  if (m.de === 'bot') return '🤖 bot';
+  return '🙋 ' + (m.atendente ? escapeHtml(m.atendente) : 'atendente');
+}
+
+function formatarHora(timestamp) {
+  if (!timestamp) return '';
+  const d = new Date(timestamp);
+  return d.toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+}
+
+// Troca a aba visível (WhatsApp/Instagram) e re-renderiza a lista com o
+// que já foi carregado, sem precisar esperar o próximo ciclo de polling.
+function trocarCanal(canal) {
+  canalAtivo = canal;
+  document.getElementById('aba-whatsapp').classList.toggle('ativa', canal === 'whatsapp');
+  document.getElementById('aba-instagram').classList.toggle('ativa', canal === 'instagram');
+  carregarLista();
+}
+
+async function carregarLista() {
+  try {
+    // Busca todas as conversas (sem filtro de canal na API) pra poder
+    // mostrar a contagem certa em cada aba, e filtra pro canal ativo aqui.
+    const res = await fetchAutenticado(API + '/api/conversas', { headers: headers() });
+    const todasConversas = await res.json();
+    const container = document.getElementById('lista');
+
+    const doWhatsapp = todasConversas.filter(c => (c.canal || 'whatsapp') === 'whatsapp');
+    const doInstagram = todasConversas.filter(c => c.canal === 'instagram');
+    document.getElementById('contagem-whatsapp').textContent = doWhatsapp.length;
+    document.getElementById('contagem-instagram').textContent = doInstagram.length;
+
+    const conversas = canalAtivo === 'instagram' ? doInstagram : doWhatsapp;
+
+    if (!conversas.length) {
+      const msgVazio = canalAtivo === 'instagram'
+        ? 'Nenhuma conversa do Instagram ainda.'
+        : 'Nenhuma conversa do WhatsApp ainda.';
+      container.innerHTML = `<div class="vazio">${msgVazio}</div>`;
+    } else {
+      container.innerHTML = conversas.map(c => `
+        <div class="conversa" onclick="abrirConversa('${encodeURIComponent(c.jid)}')">
+          <div class="conversa-topo">
+            <span class="nome">${escapeHtml(c.nome)}</span>
+            <span class="badge ${c.pausado ? 'pausado' : 'auto'}">
+              ${c.pausado ? '🙋 Humano respondendo' : '🤖 Bot ativo'}
+            </span>
+          </div>
+          <div class="ultima-msg">
+            ${c.ultimaMensagem ? escapeHtml(c.ultimaMensagem.texto) : ''}
+            ${c.ultimaAtividade ? ' · ' + formatarHora(c.ultimaAtividade) : ''}
+          </div>
+        </div>
+      `).join('');
+    }
+
+    // Se o modal estiver aberto, atualiza também o histórico dele em segundo plano
+    if (jidAberto) {
+      atualizarMensagensModal(jidAberto);
+    }
+  } catch (erro) {
+    document.getElementById('lista').innerHTML =
+      '<div class="vazio">Não consegui conectar ao servidor do painel.</div>';
+  }
+}
+
+async function abrirConversa(jidCodificado) {
+  jidAberto = jidCodificado;
+  await atualizarMensagensModal(jidCodificado, true);
+  document.getElementById('modal').classList.add('aberto');
+}
+
+async function atualizarMensagensModal(jidCodificado, rolarAbaixo = false) {
+  try {
+    const res = await fetchAutenticado(API + '/api/conversas/' + jidCodificado, { headers: headers() });
+    const conversa = await res.json();
+
+    const iconeCanal = conversa.canal === 'instagram' ? '📸' : '💬';
+    document.getElementById('modal-nome').textContent = `${iconeCanal} ${conversa.nome}`;
+    if (rolarAbaixo) {
+      document.getElementById('input-nome').value = '';
+      document.getElementById('input-nome').placeholder = 'Renomear "' + conversa.nome + '"...';
+    }
+
+    document.getElementById('mensagens').innerHTML = (conversa.mensagens || []).map(m => `
+      <div class="msg ${m.de}">
+        ${escapeHtml(m.texto)}
+        <small>${rotuloRemetente(m)} · ${formatarHora(m.timestamp)}</small>
+      </div>
+    `).join('') || '<p style="color:#999">Sem mensagens ainda.</p>';
+
+    document.getElementById('modal-acoes').innerHTML = conversa.pausado
+      ? '<button class="acao devolver" onclick="devolver()">✅ Devolver pro bot</button>'
+      : '<button class="acao assumir" onclick="assumir()">🙋 Assumir atendimento</button>';
+
+    if (rolarAbaixo) {
+      document.getElementById('mensagens').scrollTop = 99999;
+    }
+  } catch (erro) {
+    console.error("Erro ao sincronizar mensagens do modal:", erro);
+  }
+}
+
+async function assumir() {
+  await fetchAutenticado(API + '/api/conversas/' + jidAberto + '/assumir', { method: 'POST', headers: headers() });
+  atualizarMensagensModal(jidAberto, true);
+  carregarLista();
+}
+
+async function devolver() {
+  await fetchAutenticado(API + '/api/conversas/' + jidAberto + '/devolver', { method: 'POST', headers: headers() });
+  atualizarMensagensModal(jidAberto, true);
+  carregarLista();
+}
+
+// Manda a mensagem digitada de verdade pelo WhatsApp do bot (não precisa
+// mais de ninguém com o WhatsApp aberto no celular pra responder).
+async function enviarMensagem() {
+  const input = document.getElementById('input-mensagem');
+  const botao = document.getElementById('btn-enviar');
+  const texto = input.value.trim();
+  if (!texto || !jidAberto) return;
+
+  input.disabled = true;
+  botao.disabled = true;
+
+  try {
+    const res = await fetchAutenticado(API + '/api/conversas/' + jidAberto + '/mensagem-atendente', {
+      method: 'POST', headers: headers(),
+      body: JSON.stringify({ texto }),
+    });
+    if (res.ok) {
+      input.value = '';
+    } else {
+      const erro = await res.json().catch(() => ({}));
+      alert('Não consegui enviar: ' + (erro.erro || 'erro desconhecido'));
+    }
+  } catch (erro) {
+    alert('Falha de conexão ao tentar enviar a mensagem.');
+  }
+
+  input.disabled = false;
+  botao.disabled = false;
+  input.focus();
+  await atualizarMensagensModal(jidAberto, true);
+  carregarLista();
+}
+
+document.getElementById('btn-enviar').onclick = enviarMensagem;
+document.getElementById('input-mensagem').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    e.preventDefault();
+    enviarMensagem();
+  }
+});
+
+document.getElementById('input-nome').addEventListener('keydown', async (e) => {
+  if (e.key === 'Enter' && e.target.value.trim()) {
+    await fetchAutenticado(API + '/api/conversas/' + jidAberto + '/renomear', {
+      method: 'POST', headers: headers(),
+      body: JSON.stringify({ nome: e.target.value.trim() }),
+    });
+    atualizarMensagensModal(jidAberto, true);
+    carregarLista();
+  }
+});
+
+document.getElementById('fechar-modal').onclick = () => {
+  document.getElementById('modal').classList.remove('aberto');
+  jidAberto = null;
+};
+
+function escapeHtml(str) {
+  const d = document.createElement('div');
+  d.textContent = str || '';
+  return d.innerHTML;
+}
+
+iniciar(); // mostra a tela de login (ou entra direto se já tinha sessão salva)
+
+// Registra o service worker — necessário pra ferramentas de empacotamento
+// (ex: PWABuilder) reconhecerem o painel como app instalável e gerar o .apk.
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js').catch(() => {});
+}
+
+</script>
+
+</body>
+</html>
